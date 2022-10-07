@@ -24,6 +24,7 @@ Indeed if the neuron output is exactly zero it cannot be assumed that the sample
 
 
 ### ALGORITHM:
+```
 Importing the libraries
 Importing the dataset
 Plot the data to verify the linear separable dataset and consider only two classes
@@ -41,7 +42,7 @@ For ‘N ‘ iterations ,do the following:
 Plot the error for each iteration 
 Print the accuracy
 
-
+```
  ### PROGRAM:
 ```
  import numpy as np
